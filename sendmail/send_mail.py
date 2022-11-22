@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 # MIMEMultipart enables us to attach both plain text email and HTML email and files
 from email.mime.multipart import MIMEMultipart
 
-username = "rajishmaharjan123@gmail.com"
-password = "trdabcjnobmwvato"
+username = "username"
+password = "password"
 
 
 def send_mail(text = "Email Body", subject = 'Hello World', from_email = "TestUser <testuser3@gmail.com>", to_emails = [],html = None):
