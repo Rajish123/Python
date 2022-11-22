@@ -4,8 +4,8 @@ import email
 
 # imap host
 host = 'imap.gmail.com'
-username = "rajishmaharjan123@gmail.com"
-password = "trdabcjnobmwvato"
+username = "username"
+password = "password"
 
 
 def get_inbox_message():
